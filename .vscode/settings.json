@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "quest15.C": "cpp",
+        "quest1.C": "cpp",
+        "quest14.C": "cpp",
+        "quest13.C": "cpp",
+        "quest12.C": "cpp",
+        "quest11.C": "cpp",
+        "quest10.C": "cpp",
+        "quest16.C": "cpp",
+        "quest17.C": "cpp",
+        "quest18.C": "cpp",
+        "quest19.C": "cpp",
+        "quest20.C": "cpp",
+        "quest21.C": "cpp",
+        "quest22.C": "cpp",
+        "quest23.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
