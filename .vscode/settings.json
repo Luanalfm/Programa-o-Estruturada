@@ -14,7 +14,17 @@
         "quest20.C": "cpp",
         "quest21.C": "cpp",
         "quest22.C": "cpp",
-        "quest23.C": "cpp"
+        "quest23.C": "cpp",
+        "quest9.C": "cpp",
+        "quest28.C": "cpp",
+        "teste.C": "cpp",
+        "quest2.C": "cpp",
+        "quest3.C": "cpp",
+        "quest4.C": "cpp",
+        "quest5.C": "cpp",
+        "quest6.C": "cpp",
+        "quest7.C": "cpp",
+        "quest8.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }

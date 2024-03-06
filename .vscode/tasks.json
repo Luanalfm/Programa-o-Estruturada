@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: quest1.C build active file",
-            "command": "c:\\Users\\Luana\\Desktop\\WORKSPACE - C\\atividades\\quest1.C",
+            "label": "C/C++: quest4.C build active file",
+            "command": "c:\\Users\\Luana\\Desktop\\Programa-o-Estruturada\\atividade-05-Estruturas-de-repeticao-em-C\\quest4.C",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
@@ -12,7 +12,7 @@
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "c:\\Users\\Luana\\Desktop\\WORKSPACE - C\\atividades"
+                "cwd": "c:\\Users\\Luana\\Desktop\\Programa-o-Estruturada\\atividade-05-Estruturas-de-repeticao-em-C"
             },
             "problemMatcher": [
                 "$gcc"
