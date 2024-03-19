@@ -26,7 +26,12 @@
         "quest7.C": "cpp",
         "quest8.C": "cpp",
         "quest25.C": "cpp",
-        "quest24.C": "cpp"
+        "quest24.C": "cpp",
+        "salaquest4.C": "cpp",
+        "salaquest2.C": "cpp",
+        "fatorial.C": "cpp",
+        "exemplo.C": "cpp",
+        "atvd01.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
