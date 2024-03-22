@@ -31,7 +31,8 @@
         "salaquest2.C": "cpp",
         "fatorial.C": "cpp",
         "exemplo.C": "cpp",
-        "atvd01.C": "cpp"
+        "atvd01.C": "cpp",
+        "quest.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
