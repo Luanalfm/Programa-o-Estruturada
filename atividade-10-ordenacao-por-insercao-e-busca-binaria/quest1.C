@@ -29,7 +29,6 @@ int binarySearch(int arr[], int size, int key, int *iterations) {
 int main() {
     int arr[] = {10, 20, 30, 40, 50, 60, 70, 80, 90}; 
     int size = sizeof(arr) / sizeof(arr[0]); 
-    int key = 30; 
     printf("Insira o codigo do produto para descobrir a sua posicao em estoque: \n");
     scanf("%d", &key); 
     int iterations; 
